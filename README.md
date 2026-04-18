@@ -19,7 +19,7 @@ Foco em transformar processos complexos e dados contábeis em fluxos automatizad
 
 ### 📫 Conecte-se comigo:
 - **Localização:** Arapiraca, Alagoas ☀️
-- [**LinkedIn**](https://www.linkedin.com/in/brnocandido/))
+- [**LinkedIn**](https://www.linkedin.com/in/brnocandido/)
 - [**Email**](mailto:brunocandido16@gmail.com)
 
 ---
