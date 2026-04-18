@@ -6,10 +6,9 @@ Estudante de TI focado em programação, unindo o desenvolvimento backend com a 
 
 ---
 
-### 📊 GitHub Stats
-![Estatísticas do BC](https://github.readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=transparent)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=transparent)
-
+### 📊 GitHub Status
+![Estatísticas do BC](https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=transparent&v=1)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=transparent&v=1)
 ---
 
 ### 🛠️ Foco Técnico:
