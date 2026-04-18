@@ -1,33 +1,58 @@
-# Olá, eu sou o Bruno 👋
+<div align="center">
 
-### Arquiteto de Eficiência | Backend, Automação & Governança de TI
+# Hello, I'm Bruno 👋
 
-Estudante de TI focado em programação, unindo o desenvolvimento backend com a implementação de controles lógicos e auditoria de sistemas. Como parte do time da **Analisegroup Contabilidade e Gestão Inteligente**, minha missão é transformar processos complexos e volumes massivos de dados contábeis em fluxos automatizados, orquestrados por inteligência e blindados por boas práticas de segurança.
+**IT Student | Backend, Automação & Governança de TI**
 
----
+*Building efficient workflows*
 
-### 📊 GitHub Status
-![Estatísticas do BC](https://github-readme-stats.vercel.app/api?username=by-BC&show_icons=true&theme=transparent&v=1)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=by-BC&layout=compact&theme=transparent&v=1)
----
+</div>
 
-### 🛠️ Foco Técnico:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Regex](https://img.shields.io/badge/regex-000000?style=for-the-badge&logo=regex&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI-Agents-green?style=for-the-badge&logo=openai)
+<br>
 
-### 📈 Projetos e Soluções:
-- **Unificador de Dados Bancários (OFX):** Pipeline em Python desenvolvido para o setor contábil que faz o *parsing* de arquivos estruturados (OFX) de múltiplos bancos, aplica RegEx para formatação de dados sensíveis (máscaras de CNPJ) e consolida milhares de transações em uma única base de dados otimizada via Pandas.
-- **AI Audit Agent:** Agente inteligente estruturado para conciliação bancária, análise de dados de auditoria e verificação de conformidade fiscal.
+### 🟪 About me
+<hr>
 
----
+I am an **IT Student** passionate about turning complex processes into **solid, automated, and secure** workflows.
 
-### 📫 Conecte-se comigo:
-- **Localização:** Arapiraca, Alagoas ☀️
-- [**LinkedIn**](https://www.linkedin.com/in/brnocandido/)
-- [**Email**](mailto:brunocandido16@gmail.com)
+I work mainly from **backend to automation**, always prioritizing **clean logic, data integrity, and efficiency**.
 
----
-*"O código deve ser um meio para a eficiência, a segurança e a precisão; nunca um obstáculo."*
+I am currently developing solutions for **Analisegroup Contabilidade**, combining a **robust backend, data processing, and AI integrations** designed for the real-world accounting market.
+
+* **Main project:** Unificador de Dados Bancários (OFX Parser & Consolidator in Python)
+* **Technical interests:** System architecture, automated data pipelines, logical controls, and AI Agents
+* **Beyond code:** I work with high-complexity financial data for accounting and focus on IT governance
+
+<br>
+
+### 🟪 Tech Stack
+<hr>
+
+<div align="center">
+
+**◆ Backend & Dados**
+<br>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white" />
+
+<br><br>
+
+**◆ Infra & AI**
+<br>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+<br>
+
+### 🟪 Contacts
+<hr>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/brnocandido/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:brunocandido16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
