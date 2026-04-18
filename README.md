@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Banner BC - Arquiteto de Eficiência" />
+
 <div align="center">
 
 # Hello, I'm Bruno 👋
