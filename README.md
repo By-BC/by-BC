@@ -28,8 +28,8 @@
 <h3 align="center">💻 Projetos em Destaque</h3>
 
 <div align="center">
-  <a href="https://github.com/bruno-candido/unificador-dados-contabeis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bruno-candido&repo=unificador-dados-contabeis&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
+  <a href="https://github.com/by-BC/unificador-dados-contabeis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=unificador-dados-contabeis&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
   </a>
 </div>
 
