@@ -1,53 +1,31 @@
+# Bruno Candido
+**IT | System Auditing | Data Analysis**
+
+Graduando em Tecnologia da Informação. Foco em controles lógicos, auditoria de sistemas e automação para tratamento de dados.
+
+---
+
+### 🛠️ Linguagens e Estatísticas
+
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0A0A0A&title_color=C5A059&text_color=888888&hide_border=true&card_width=380" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true&count_private=true&card_width=380" />
+</div>
 
-  <h1 style="color: #C5A059; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 5px;">Bruno Candido</h1>
-  <p style="color: #888; font-size: 14px; letter-spacing: 2px;">
-    INFORMATION TECHNOLOGY | SYSTEM AUDITING | DATA ANALYSIS
-  </p>
+<br>
 
-  <br>
+### 💻 Projetos em Destaque
 
-  <p align="center" style="max-width: 600px; margin: 0 auto;">
-    Graduando em Tecnologia da Informação com foco profundo em <strong>Auditoria de Sistemas, Controles Lógicos e Governança de Dados</strong>. Desenvolvo ferramentas analíticas de alto desempenho para transformar dados brutos em inteligência executiva.
-  </p>
-
-  <br>
-
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=C5A059"></a>
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=C5A059"></a>
-
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO/unificador-dados-contabeis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=unificador-dados-contabeis&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
+  </a>
 </div>
 
 <br>
 
 ---
-
-### 🏛️ Filosofia de Desenvolvimento
-Acredito na tecnologia voltada para a **performance e precisão**. Seja otimizando rotinas de hardware de alto desempenho ou mapeando anomalias em conjuntos complexos de dados, meu foco é criar arquiteturas seguras, auditáveis e com interfaces minimalistas. A regra é clara: *menos ruído, mais inteligência*.
-
----
-
-### 🛠️ Stack Tecnológico & Especialidades
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/Data_Cleaning-000000?style=for-the-badge&logo=databricks&logoColor=C5A059">
-  <img src="https://img.shields.io/badge/System_Auditing-000000?style=for-the-badge&logo=linux&logoColor=C5A059">
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=C5A059"></a>
+  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C5A059"></a>
 </div>
-
-<br>
-
----
-
-### 🚀 Destaque Recente
-
-#### 💼 BPO Intelligence & Auditoria Digital (Workspace Analisegroup)
-*Ferramenta de cruzamento de dados bancários (OFX) e conciliação contábil com ERPs.*
-- **Desafio:** Eliminar o trabalho manual de BPO através da unificação de extratos de múltiplos bancos.
-- **Solução:** Desenvolvimento de um "Motor de Match Blindado" em Python com janela de tolerância temporal e detecção autônoma de transferências internas.
-- **Resultado:** Automação do tratamento de dados com exportação direta para layout contábil (Domínio Sistemas), acompanhado de um dashboard analítico reativo de fluxo de caixa.
-
-<br>
