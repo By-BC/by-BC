@@ -1,19 +1,17 @@
 <div align="center">
 
-  <h1 style="color: #C5A059; text-transform: uppercase; letter-spacing: 2px;">Bruno Candido</h1>
-  
-  <p style="color: #888; font-size: 14px; letter-spacing: 1px;">
-    <strong>IT | System Auditing | Data Analysis</strong>
+  <h1 style="color: #C5A059; text-transform: uppercase; letter-spacing: 4px; margin-bottom: 5px;">Bruno Candido</h1>
+  <p style="color: #888; font-size: 14px; letter-spacing: 2px;">
+    INFORMATION TECHNOLOGY | SYSTEM AUDITING | DATA ANALYSIS
   </p>
 
-  <p style="max-width: 550px; margin: 0 auto; line-height: 1.5;">
-    Graduando em Tecnologia da Informação. Foco em controles lógicos, auditoria de sistemas e automação para tratamento de dados.
+  <br>
+
+  <p align="center" style="max-width: 600px; margin: 0 auto;">
+    Graduando em Tecnologia da Informação com foco profundo em <strong>Auditoria de Sistemas, Controles Lógicos e Governança de Dados</strong>. Desenvolvo ferramentas analíticas de alto desempenho para transformar dados brutos em inteligência executiva.
   </p>
 
-</div>
-
-<br>
-
+  <br>
 ---
 
 <h3 align="center">🛠️ Linguagens e Estatísticas</h3>
@@ -27,7 +25,7 @@
 
 <h3 align="center">💻 Projetos em Destaque</h3>
 
-<div align="center">
+<div align="">
   <a href="https://github.com/by-BC/unificador-dados-contabeis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=unificador-dados-contabeis&bg_color=0A0A0A&title_color=C5A059&text_color=888888&icon_color=C5A059&hide_border=true" />
   </a>
