@@ -51,12 +51,3 @@ Acredito na tecnologia voltada para a **performance e precisão**. Seja otimizan
 - **Resultado:** Automação do tratamento de dados com exportação direta para layout contábil (Domínio Sistemas), acompanhado de um dashboard analítico reativo de fluxo de caixa.
 
 <br>
-
----
-
-<div align="center">
-  <p style="color: #444; font-size: 11px; letter-spacing: 1px;">
-    <i>"A excelência não é um ato, mas um hábito."</i>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=bruno-candido&color=C5A059&style=for-the-badge&label=AUDITORIAS+DE+PERFIL" alt="Profile Views" />
-</div>
