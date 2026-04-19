@@ -23,7 +23,8 @@
 </div>
 
 <br>
-### 🚀 Destaque Recente
+
+<h3 align="left">🚀 Destaque Recente</h3>
 
 #### 💼 BPO Intelligence & Auditoria Digital (Workspace Analisegroup)
 *Ferramenta de cruzamento de dados bancários (OFX) e conciliação contábil com ERPs.*
