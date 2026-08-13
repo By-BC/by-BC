@@ -1,197 +1,156 @@
-<!-- README.md - Perfil GitHub by-BC | versão corrigida -->
+<!-- README.md — perfil GitHub by-BC -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,55:1F6FEB,100:0D1117&text=Bruno%20Candido&fontColor=F0F6FC&fontSize=42&fontAlignY=38&desc=TI%20%7C%20Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20aplicada%20a%20processos&descAlignY=60&descSize=16" alt="Banner Bruno Candido" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,55:1F6FEB,100:0D1117&text=Bruno%20Candido&fontColor=F0F6FC&fontSize=40&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20e%20IA%20aplicadas%20a%20processos%20cont%C3%A1beis%20e%20fiscais&descAlignY=58&descSize=15" alt="Bruno Candido — Automação e IA aplicadas a processos contábeis e fiscais" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/by-BC">
-    <img src="https://img.shields.io/badge/GitHub-by--BC-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/brnocandido/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Candido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-brnocandido-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Analisegroup-TI%20%7C%20Automa%C3%A7%C3%A3o-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Analisegroup" />
-  <img src="https://img.shields.io/badge/Arapiraca--AL-Brasil-21262D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Arapiraca AL" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Analista+de+TI+com+foco+em+Automa%C3%A7%C3%A3o+e+IA;Construindo+solu%C3%A7%C3%B5es+internas+com+Python;Backend%2C+RPA%2C+dados+e+integra%C3%A7%C3%A3o+de+sistemas;Transformando+processos+operacionais+em+sistemas+simples" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Analisegroup-Analista%20de%20TI-1F6FEB?style=flat-square&logo=python&logoColor=white" alt="Analisegroup" />
+  <img src="https://img.shields.io/badge/Arapiraca%20--%20AL-Brasil-21262D?style=flat-square&logo=googlemaps&logoColor=58A6FF" alt="Arapiraca - AL" />
 </p>
 
 ---
 
-## Sobre mim
+## Sobre
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+Analista de TI na **Analisegroup**, escritório de contabilidade, e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Sou **Bruno Candido**, estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **TI na Analisegroup**.
+Construo ferramentas internas em Python que tiram trabalho manual do caminho de quem faz contabilidade: leitura de extratos, classificação de lançamentos, extração de obrigações acessórias, integração entre sistemas e agentes de IA aplicados à rotina operacional.
 
-Atuo com desenvolvimento de soluções para **automação de processos**, **inteligência artificial aplicada**, **integração de sistemas**, **RPA**, **processamento de dados** e criação de ferramentas internas para melhorar rotinas operacionais.
+O que isso significa na prática:
 
-<br />
-<img src="https://www.elitetechnocrats.com/images/software_devlopment.gif" alt="Developer coding" width="100%" />
+- **Extratos bancários em PDF viram OFX conciliável**, sem redigitação
+- **Lançamentos classificados a partir do CNPJ** que vem no histórico do extrato, em vez de chute pelo nome da conta
+- **Dados do eSocial extraídos e organizados** para apoiar rotinas trabalhistas
+- **Skills e servidores MCP próprios** que padronizam como a IA gera código e documentação aqui dentro
 
-</td>
-<td width="42%" valign="top">
-
-```python
-class BrunoCandido:
-    role = "Analista de TI"
-    company = "Analisegroup"
-    location = "Arapiraca, AL"
-
-    main_stack = [
-        "Python",
-        "Automação",
-        "IA aplicada",
-        "Backend",
-        "APIs",
-        "RPA",
-        "Dados"
-    ]
-
-    learning = [
-        "Arquitetura de Software",
-        "Cloud",
-        "Segurança da Informação",
-        "System Design"
-    ]
-
-    def goal(self):
-        return "Criar soluções simples para operações complexas."
-```
-
-</td>
-</tr>
-</table>
+> Domínio do problema antes da stack: automação só resolve quando quem escreve entende plano de contas, conciliação e obrigação acessória.
 
 ---
 
-## Stack principal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,tailwind,fastapi,postgres,supabase,sqlite,docker,git,github,vscode&theme=dark" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-21262D?style=for-the-badge&logo=google&logoColor=58A6FF" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/ChatGPT-21262D?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-21262D?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-21262D?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/AI%20Tools-1F6FEB?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI Tools" />
-</p>
-
----
-
-
-## Projetos em destaque
+## Projetos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Fast-MCP</h3>
-      <p>Servidor MCP em Python para expor ferramentas de consulta, automação e integração com repositórios do GitHub.</p>
+      <h3>pdf-to-ofx</h3>
+      <p><b>Problema:</b> extrato bancário chega em PDF e precisa ser digitado lançamento a lançamento para conciliar.</p>
+      <p><b>Solução:</b> parser que lê o PDF, normaliza os lançamentos e gera um arquivo OFX importável pelo sistema contábil.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/FastMCP-21262D?style=flat-square&logo=python&logoColor=58A6FF" />
-        <img src="https://img.shields.io/badge/MCP-21262D?style=flat-square&logo=protocols.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/Parsing-21262D?style=flat-square&logo=adobeacrobatreader&logoColor=EC1C24" alt="Parsing" />
+        <img src="https://img.shields.io/badge/OFX-21262D?style=flat-square&logo=files&logoColor=58A6FF" alt="OFX" />
+      </p>
+      <a href="https://github.com/by-BC/pdf-to-ofx">
+        <img src="https://img.shields.io/badge/Ver%20repositório-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Ver repositório" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>fast-mcp</h3>
+      <p><b>Problema:</b> assistentes de IA sem acesso ao contexto real dos repositórios respondem no vazio.</p>
+      <p><b>Solução:</b> servidor MCP em Python que expõe ferramentas de consulta, automação e integração com o GitHub para agentes de IA.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/FastMCP-21262D?style=flat-square&logo=python&logoColor=58A6FF" alt="FastMCP" />
+        <img src="https://img.shields.io/badge/MCP-21262D?style=flat-square&logo=protocolsdotio&logoColor=white" alt="MCP" />
       </p>
       <a href="https://github.com/by-BC/fast-mcp">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Central Analisegroup</h3>
-      <p>Portal interno para centralizar ferramentas, fluxos, automações e rotinas operacionais da Analisegroup.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-21262D?style=flat-square&logo=robotframework&logoColor=white" />
-        <img src="https://img.shields.io/badge/Processos-21262D?style=flat-square&logo=databricks&logoColor=58A6FF" />
-        <img src="https://img.shields.io/badge/Analisegroup-21262D?style=flat-square&logo=googleanalytics&logoColor=58A6FF" />
-      </p>
-      <a href="https://github.com/by-BC/central-analisegroup">
+        <img src="https://img.shields.io/badge/Ver%20repositório-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Ver repositório" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Onde Passa FC</h3>
-      <p>Plataforma web para acompanhar jogos, transmissões, tabelas, estatísticas e simulações do futebol brasileiro.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" />
-        <img src="https://img.shields.io/badge/Vite-21262D?style=flat-square&logo=vite&logoColor=646CFF" />
-        <img src="https://img.shields.io/badge/Tailwind-21262D?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Supabase-21262D?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-      </p>
-      <a href="https://github.com/by-BC/onde-passa-FC">
-      </a>
-    </td>
     <td width="50%" valign="top">
       <h3>Extrator eSocial</h3>
-      <p>Ferramenta para extração, organização e apoio à análise de dados relacionados ao eSocial e rotinas trabalhistas.</p>
+      <p><b>Problema:</b> conferência de dados do eSocial feita à mão, evento por evento.</p>
+      <p><b>Solução:</b> extração e organização automática dos dados para análise das rotinas trabalhistas.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Dados-21262D?style=flat-square&logo=pandas&logoColor=150458" />
-        <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-21262D?style=flat-square&logo=robotframework&logoColor=white" />
-        <img src="https://img.shields.io/badge/eSocial-21262D?style=flat-square&logo=files&logoColor=58A6FF" />
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/pandas-21262D?style=flat-square&logo=pandas&logoColor=F0F6FC" alt="pandas" />
+        <img src="https://img.shields.io/badge/eSocial-21262D?style=flat-square&logo=files&logoColor=58A6FF" alt="eSocial" />
       </p>
       <a href="https://github.com/by-BC/extrator-esocial">
+        <img src="https://img.shields.io/badge/Ver%20repositório-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Ver repositório" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Onde Passa FC</h3>
+      <p><b>Problema:</b> descobrir onde assistir cada jogo do futebol brasileiro exige caçar informação em vários lugares.</p>
+      <p><b>Solução:</b> plataforma web com jogos, transmissões, tabelas, estatísticas e simulações em um só lugar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-21262D?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+      </p>
+      <a href="https://github.com/by-BC/onde-passa-FC">
+        <img src="https://img.shields.io/badge/Ver%20repositório-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Ver repositório" />
       </a>
     </td>
   </tr>
 </table>
 
----
-
-
-## Métricas do GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=by-BC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=by-BC&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true" alt="Contribution Graph" width="96%" />
-</p>
+<sub>Parte das ferramentas internas da Analisegroup (portal interno, motor de classificação contábil, CRM do escritório) fica em repositórios privados por envolver dados e credenciais de clientes.</sub>
 
 ---
 
-## Roadmap atual
+## IA como ferramenta de engenharia
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Backend</h3>
-      <p>Arquitetura de APIs, organização de serviços, autenticação, filas e boas práticas para sistemas escaláveis.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Automação</h3>
-      <p>RPA com Python, Playwright, processamento de planilhas, integrações internas e redução de processos manuais.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>IA aplicada</h3>
-      <p>Agentes, análise de dados, apoio à auditoria, documentação automática e soluções para produtividade operacional.</p>
-    </td>
-  </tr>
-</table>
+Não uso IA só para gerar código — construo o contexto que faz a IA gerar código do jeito certo.
+
+| | |
+|---|---|
+| **guia-dev** | Skill de mentoria em arquitetura, boas práticas e segurança (OWASP Top 10, SOLID, Clean Code), com revisão estruturada e checklist de segurança |
+| **django-skill** | Padrão oficial de arquitetura Django do time: estrutura de diretórios, settings por ambiente, `services.py` / `selectors.py` |
+| **Design system de apresentações** | Referência que a IA lê para gerar materiais no padrão visual da empresa |
+| **fast-mcp** | Servidor MCP próprio para dar ferramentas reais aos agentes |
+
+---
+
+## Stack
+
+**No dia a dia**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-21262D?style=flat-square&logo=django&logoColor=44B78B" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-21262D?style=flat-square&logo=django&logoColor=A30000" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-21262D?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Playwright-21262D?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/badge/pandas-21262D?style=flat-square&logo=pandas&logoColor=F0F6FC" alt="pandas" />
+  <img src="https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+**Front quando o projeto pede**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-21262D?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-21262D?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+</p>
+
+**Estudando agora**
+
+Arquitetura de software · Segurança da informação (AppSec) · Cloud · System design
 
 ---
 
 ## Contato
 
-<p align="center">
-  <a href="https://github.com/by-BC">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
   <a href="https://www.linkedin.com/in/brnocandido/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/by-BC">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,55:1F6FEB,100:0D1117" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=by-BC&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true" alt="Gráfico de contribuições" width="96%" />
 </p>
